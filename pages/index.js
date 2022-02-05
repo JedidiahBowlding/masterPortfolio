@@ -19,19 +19,19 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Hanzla Tauqeer",
+					title: "Jedidiah Bowlding",
 					description:
 						"A passionate Full Stack Web Developer and Mobile App Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					image: "https://cdn-az.allevents.in/events8/banners/0b92db960edc7b587e11566006db342d9449f6c924a1784742e5ce981c9a1e0a-rimg-w400-h400-gmir.jpg?v=1616664637",
+					url: "https://jedidiahbowlding.xyz",
 					keywords: [
-						"Hanzla",
-						"Hanzla Tauqeer",
-						"@1hanzla100",
-						"1hanzla100",
+						"Jedidiah",
+						"Jedidiah Bowlding",
+						"@JEDBOWLDING",
+						"Jedidiah_Eth",
 						"Portfolio",
-						"Hanzla Portfolio ",
-						"Hanzla Tauqeer Portfolio",
+						"Jedidiah Portfolio ",
+						"jedidiah Bowlding Portfolio",
 						"web developer",
 						"full stack",
 						"full stack web developer",

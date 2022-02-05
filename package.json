@@ -1,10 +1,11 @@
 {
-	"name": "developer-portfolio",
+	"name": "masterportfolio",
+	"homepage": "https://jedidiahbowl;ding.xyz",
 	"version": "1.0.0",
-	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+	"description": "Software Developer Portfolio built with react.js bootstrap that helps me showcase my work and skills as a software developer.",
 	"main": "index.js",
-	"repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
-	"author": "Hanzla Tauqeer",
+	"repository": "https://github.com/JedidiahBowlding/masterPortfolio.git",
+	"author": "Jedidiah Bopwlding",
 	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
@@ -35,7 +36,7 @@
 		"react-scripts": "^4.0.3",
 		"react-typist": "^2.0.5",
 		"reactstrap": "^8.9.0",
-		"sharp": "^0.29.1"
+		"sharp": "^0.29.3"
 	},
 	"devDependencies": {
 		"eslint": "7.32.0",

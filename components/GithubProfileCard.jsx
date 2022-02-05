@@ -15,7 +15,7 @@ const GithubProfileCard = ({ prof }) => {
 							<img
 								src={prof.avatar_url}
 								style={{ width: "200px" }}
-								alt=""
+								alt="https://cdn-az.allevents.in/events8/banners/0b92db960edc7b587e11566006db342d9449f6c924a1784742e5ce981c9a1e0a-rimg-w400-h400-gmir.jpg?v=1616664637"
 								className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
 							/>
 						</Col>

@@ -1,40 +1,43 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Jedidiah Bowlding",
+	title: "Hi all, I'm Jedidiah",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+		"A passionate Full Stack Web Developer and Mobile App Developer having experience with building Web applications with Solidity / JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+	resumeLink: "https://drive.google.com/file/d/1ON05badiBZIdk0hSVbD_4oHTruqO-cVd/view?usp=sharing",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "JedidiahBowlding",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	facebook: "https://www.facebook.com/profile.php?id=100078067171292",
+	instagram: "https://www.instagram.com/jedidiahbowldingsr/",
+	twitter: "https://twitter.com/JEDBOWLDING",
+	github: "https://github.com/JedidiahBowlding",
+	linkedin: "https://www.linkedin.com/in/jedidiah-bowlding-64650416a",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"Application Expert with more than 15 years of experience in design, configuration, writing functional specifications. Advanced knowledge of implementations, development and system configuration through the entire life cycle, from project preparation to Go live and Support.",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+			"⚡ Software Integration (EDI, eCommerce, POS, WMS, iOS, Microsoft Dynamics CRM, MS Office, Sharepoint, Magento, Shopify, BigCommerce, Salesforce, SellerCloud, UPS, FedEx, TaskCentre, Hubspot, 3PL)."
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance."
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+			"⚡ Custom addons (SAP B1 SDK, DI API, UI, Server DI, B1i integration framework(B1if), C#, VB.NET, REST API)"
+		),
+		emoji(
+			"⚡ Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system."
 		),
 	],
 
@@ -113,106 +116,136 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "98", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "96",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "100",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "University of Maryland Global Campus",
+		subHeader: "Bachelor's Degree Computer Networks and Cybersecurity",
+		duration: "September 2019 - February 2021",
+		desc: "Participated in the research of addressing complex problems ",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Data base user interface and query software",
+			"Manage information technology projects or system activities",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Google Career Certificate",
+		subHeader: "Project Management",
+		duration: "September 2017 - April 2018",
+		desc: "Participated in the research of addressing complex problems ",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Inventing innovative computing designs",
+			"New applications for technology",
 		],
 	},
 	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
+		schoolName: "Google Career Certificate",
+		subHeader: "Data Analytics",
+		duration: "September 2017 - April 2018",
+		desc: "Process Data from Dirty to Clean ",
+		descBullets: [
+			"Share Data Through the Art of Visualization",
+			"Data Analysis with R Programming",
+		],
+	},
+	{
+		schoolName: "Google Career Certificate",
+		subHeader: "UX Design",
+		duration: "September 2017 - April 2018",
+		desc: "Design digital user interfaces or websites.",
+		descBullets: [
+			"Develop specifications or procedures for website development or maintenance",
+			"Write code that interacts with network resources",
+		],
+	},
+	{
+		schoolName: "Google Career Certificate",
+		subHeader: "Android Development",
+		duration: "September 2017 - April 2018",
 		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
 		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+			"Developing, Testing, and Debugging Android Apps in Kotlin",
 		],
 	},
 ];
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
-		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Business Intelligence Analyst",
+		company: "Xscuvalar New Beginnings Project Inc",
+		companylogo: "/img/icons/common/xscuvalarcirclelogo.png",
+		date: "2018 – Present",
+		desc: "Currently head of the IT Department, we are currently in the process transtioning all IT infrastructure and services into one cohesive organization.",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Testing, maintaining, and monitoring computer programs and systems, including coordinating the installation of computer programs and systems",
+			
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: "/img/icons/common/github.svg",
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Information Technology Manager",
+		company: "Hiligh Trucking & Hauling LLC",
+		companylogo: "/img/icons/common/quicklogo.png",
+		date: "2015 – 2018",
+		desc: "Lead IT strategies and infrastructure that directly support business initiatives and priorities in areas including security, backup systems.",
+		descBullets: [
+			"Successfully coordinated and managed a 20-site WAN upgrade covering over 5,000 square miles throughout the state of Maryland, on-time and on-budget.",
+			
+		],
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Technology Specialist",
+		company: "Second Family Inc",
+		companylogo: "/img/icons/common/secfam.png",
+		date: "2010 – 2015",
+		desc: "Maintained key business applications and technology systems while simultaneously partnering with executive leadership to guide both short and long-range planning and projects.",
+		descBullets: [
+			"Served as technology project lead for a $3M e-fund grant that laid the foundation for high-speed network connectivity, content, and tools to cover over 50 central nursing locations.",
+			
+		],
 	},
 ];
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Kitten Tricks",
+		desc: "This perfect starter kit is an app based on React Native and UI Kitten library with Light and Dark themes support.",
+		github: "https://github.com/JedidiahBowlding",
+		link: "https://github.com/JedidiahBowlding/kittenTricks.git",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		name: "Master Portfolio",
+		desc: "A clean, beautiful, responsive and 100% customizable portfolio template for Software Developers!",
+		github: "https://github.com/JedidiahBowlding",
+		link: "https://github.com/JedidiahBowlding/masterPortfolio.git",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
+		name: "Solidity Coin",
+		desc: "Simple tokenomics and elegant design and production of token information has catered to the overall success of the project.",
+		github: "https://github.com/JedidiahBowlding",
+		link: "https://github.com/JedidiahBowlding/MakeAllocatingCapitalSimple.sol-.git",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Joesph Osigwi",
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+			"We have been very happy with our new website! It looks professional and very easy to navigate. Our customer service experience with Jedidiah Bowlding has been great. He handled things very efficiently and was available for any questions we had. He also keep us updated on daily reports so we knew how our site was comking along. I would recommend that u have to choose Jedidiah for web developement services for u.",
 	},
 	{
-		name: "Maheen Altaf",
+		name: "Ronald Jenkins",
 		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+			"The website is very nice, everything was perfectly made as I needed. it just loads in moments, without giving you the chance to wait. The quality is also very amazing, I am using it without any problems great job",
 	},
 ];
